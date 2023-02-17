@@ -1,1 +1,1 @@
-# -hierarchical_classifier_resnet50
+# classificador hierarquico Resnet50
